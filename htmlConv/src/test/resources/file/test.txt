@@ -1,0 +1,16 @@
+# this is my title
+## header size 2
+### header size 3
+
+---
+
+__first part__
+* bullet1
+* bullet2
+   * bullet 2.1
+
+1. hello
+2. ratie
+
+   
+
